@@ -1,0 +1,1 @@
+{"version":3,"sources":["../components/profile-image/profile-image.scss"],"names":[],"mappings":"AACA,GAAG,CAAA;EACD,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI,GACZ","file":"profile-image.02f4c1ac.css","sourceRoot":"../src/pages","sourcesContent":["\nimg{\n  height: 40px;\n  width: 40px;\n}\n"]}

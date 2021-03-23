@@ -1,0 +1,1 @@
+{"version":3,"sources":["../main.scss"],"names":[],"mappings":"AAAA,CAAC,CAAA;EACC,WAAW,EAAE,mBAAmB,GACjC;;AAED,IAAI,CAAA;EACF,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,QAAQ,GACnB","file":"main.ff46185c.css","sourceRoot":"../src/pages","sourcesContent":["*{\n  font-family: 'Inter', sans-serif;\n}\n\nbody{\n  margin: 0;\n  padding: 0;\n  position: relative;\n}\n"]}

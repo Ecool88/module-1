@@ -1,0 +1,38 @@
+* {
+  font-family: 'Inter', sans-serif; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F6F6F6;
+  overflow: hidden; }
+
+ul, li {
+  list-style-type: none; }
+
+a {
+  text-decoration: none; }
+
+.wrapper {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  text-align: center; }
+
+.content {
+  color: #1E1E1E; }
+  .content__title {
+    font-size: 40px;
+    font-weight: 500; }
+  .content__subtitle {
+    font-size: 20px; }
+
+.back {
+  margin-top: 80px; }
+  .back__link {
+    color: #3369F3;
+    font-size: 13px;
+    text-decoration: none; }
+
+
+/*# sourceMappingURL=/404.407c89a3.css.map */

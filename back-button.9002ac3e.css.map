@@ -1,0 +1,1 @@
+{"version":3,"sources":["../components/back-button/back-button.scss"],"names":[],"mappings":"AAAA,OACE,UAAA,CACA,aAGF,OACE","file":"back-button.9002ac3e.css","sourceRoot":"../src/pages","sourcesContent":["button{\n  width: 60px;\n  height: 100vh;\n}\n\na.back{\n  margin: auto;\n}\n"]}

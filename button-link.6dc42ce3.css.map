@@ -1,0 +1,1 @@
+{"version":3,"sources":["../components/button-link/button-link.scss"],"names":[],"mappings":"AAAA,EACE,oBAAA,CACA,aAAA,CACA","file":"button-link.6dc42ce3.css","sourceRoot":"../src/pages","sourcesContent":["a{\n  text-decoration: none;\n  color: #3369F3;\n  font-size: 13px;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["login/login.scss"],"names":[],"mappings":"AAAA,SACE,WAAA,CACA,YAAA,CACA,wBAAA,CACA,kBAAA,CACA","file":"login.a923737a.css","sourceRoot":"../src/pages","sourcesContent":[".wrapper{\n  width: 360px;\n  height: 460px;\n  background-color: #F6F6F6;\n  border-radius: 12px;\n  margin: 200px auto;\n}\n"]}
