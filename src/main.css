@@ -1,7 +1,20 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
 body {
   margin: 0;
   padding: 0;
-  position: relative;
+  background-color: #F6F6F6;
+  overflow: hidden;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=main.css.map */
