@@ -1,6 +1,9 @@
+.form {
+  margin: 0;
+}
 .form__btn-back {
   width: 64px;
-  height: 100vh;
+  height: 100%;
   border: none;
   outline: none;
   background-color: #EDEDED;

@@ -4,6 +4,7 @@ main {
 
 .wrapper-profile {
   display: flex;
+  height: 100%;
 }
 .wrapper-content {
   width: 510px;

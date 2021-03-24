@@ -1,12 +1,13 @@
 *{
   font-family: 'Inter', sans-serif;
+  //box-sizing: border-box;
 }
 
-body{
+html, body{
   margin: 0;
   padding: 0;
   background-color: #F6F6F6;
-  overflow: hidden;
+  //overflow-x: hidden;
 }
 
 ul,li{

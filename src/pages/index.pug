@@ -1,9 +1,23 @@
-ul
-    li
-        a(href='login/login.pug') Login
-    li
-        a(href='signin/signin.pug') Signin
-    li
-        a(href='chats/chats.pug') Chats
-    li
-        a(href='profile/profile.pug') Profile
+extends ../layout/layout
+block variables
+    - var title = 'Выберите страницу'
+
+block scripts
+    script(src='../components/add-files/add-files.js')
+    script(src='../main.js')
+    script(src='../components/button/button.js')
+    script(src='../components/items-more/items-more.js')
+
+block content
+    include ../components/add-files/add-files
+    ul
+        li
+            a(href='login/login.pug') Login
+        li
+            a(href='signin/signin.pug') Signin
+        li
+            a(href='chats/chats.pug') Chats
+        li
+            a(href='profile/profile.pug') Profile
+
+    include ../components/items-more/items-more
