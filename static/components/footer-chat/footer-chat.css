@@ -11,7 +11,7 @@
   width: 32px;
   height: 32px;
   margin-left: 30px;
-  background-image: url("../../../static/clip-more.png");
+  background-image: url("../../icons/clip-more.png");
 }
 .chat-footer__chat-input {
   width: 85%;
@@ -20,7 +20,7 @@
   width: 28px;
   height: 28px;
   margin-right: 30px;
-  background-image: url("../../../static/arrow-right.png");
+  background-image: url("../../icons/arrow-right.png");
 }
 
 .chat-input__textarea {
